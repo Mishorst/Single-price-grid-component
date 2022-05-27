@@ -1,0 +1,64 @@
+@media (max-width: 56em) {
+  main.desktop {
+    min-height: 110vh;
+  }
+
+  .container {
+    max-width: 33.5rem;
+    display: flex;
+    flex-direction: column;
+    padding: 0 2rem;
+  }
+
+  .first-box {
+    padding: 2rem;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.4rem;
+  }
+
+  .first-text {
+    font-size: 1.3rem;
+  }
+
+  .second-box {
+    padding: 2rem;
+  }
+
+  .title {
+    font-size: 1.5rem;
+  }
+
+  .price {
+    font-size: 2.6rem;
+  }
+
+  .per-month {
+    font-size: 1.2rem;
+  }
+
+  .pre-btn-text {
+    font-size: 1.4rem;
+  }
+
+  .btn {
+    height: 4rem;
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin-top: 2rem;
+  }
+
+  .third-box {
+    padding: 2rem;
+  }
+
+  .text {
+    font-size: 1rem;
+    margin-top: 1.6rem;
+  }
+}
