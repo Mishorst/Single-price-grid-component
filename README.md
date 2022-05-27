@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Mishorst/Single-price-grid-component)
-- Live Site URL: [Site](https://order-summary-component-misho.netlify.app/)
+- Live Site URL: [Site](https://single-price-grid-component-misho.netlify.app/)
 
 ## My process
 
